@@ -1,0 +1,61 @@
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmSplash.resources
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\obj\x86\Debug\SIHYA.Resources.resources
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\obj\x86\Debug\SIHYA.vbproj.GenerateResource.Cache
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\bin\Debug\SIHYA.exe
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\bin\Debug\SIHYA.pdb
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\bin\Debug\SIHYA.xml
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\obj\x86\Debug\SIHYA.exe
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\obj\x86\Debug\SIHYA.xml
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\obj\x86\Debug\SIHYA.pdb
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmAcceso.resources
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmFiltro.resources
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmPrincipal.resources
+C:\Users\jesus\Desktop\proyecto hospital\SIHYA\SIHYA\obj\x86\Debug\SIHYA.Laboratorio.resources
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.exe
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.xml
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.pdb
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\bin\Debug\SIHYA.exe
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\bin\Debug\SIHYA.pdb
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\bin\Debug\SIHYA.xml
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmAcceso.resources
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmFiltro.resources
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmPrincipal.resources
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmSplash.resources
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.Resources.resources
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.vbproj.GenerateResource.Cache
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmNUsuarios.resources
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmLaboratorio.resources
+D:\Proyectos NET\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmBusPac.resources
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.exe
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.xml
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.pdb
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\bin\Debug\SIHYA.exe
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\bin\Debug\SIHYA.pdb
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\bin\Debug\SIHYA.xml
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmAcceso.resources
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmBusPac.resources
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmFiltro.resources
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmNUsuarios.resources
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmPrincipal.resources
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmSplash.resources
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmLaboratorio.resources
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.Resources.resources
+D:\Proyectos NET\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.vbproj.GenerateResource.Cache
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.exe
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.xml
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.pdb
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\bin\Debug\SIHYA.exe
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\bin\Debug\SIHYA.pdb
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\bin\Debug\SIHYA.xml
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmAcceso.resources
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmBusPac.resources
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmFiltro.resources
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmNUsuarios.resources
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmPrincipal.resources
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmSplash.resources
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frmLaboratorio.resources
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.Resources.resources
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.vbproj.GenerateResource.Cache
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\bin\Debug\SIHYA.exe.config
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.vbprojResolveAssemblyReference.cache
+C:\Users\jesus\Desktop\SIHYA1.0\SIHYA\SIHYA\SIHYA\obj\x86\Debug\SIHYA.frm_visor_reporte.resources
