@@ -1,0 +1,1 @@
+# Este repositorio contiene los archivos demo del sistema de Gestion de analisis clinicos de XXX Hospital de mi Municipio, el sistema esta implementado en su totalidad, las tecnologias utilizadas son Visual Basic.NET y MS SQL SERVER 2008 R2
